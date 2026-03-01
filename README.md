@@ -17,5 +17,4 @@
 
 ## 📫 Let’s Connect
 - **LinkedIn:** [www.linkedin.com/in/sachin-ramesh-448a46317]
-- **Portfolio:** [Portfolio URL]
 - **Email:** [sachinrc2006@gmail.com]
