@@ -1,0 +1,9 @@
+package com.blog.blog_platform.repository;
+
+import com.blog.blog_platform.entity.Post;
+import org.springframework.data.jpa.repository.JpaRepository;
+import java.util.List;
+
+public interface PostRepository extends JpaRepository<Post, Long> {
+    List<Post> findByAuthorId(Long authorId);
+}
